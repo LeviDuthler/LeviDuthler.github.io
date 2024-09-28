@@ -1,2 +1,0 @@
-# LeviDuthler.github.io
-GIS
